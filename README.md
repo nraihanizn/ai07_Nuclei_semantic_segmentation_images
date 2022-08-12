@@ -23,5 +23,3 @@ Train for 20 epoch with loss of 0.089 and accuracy of 0.964
 
 ![nuclei semantic segmentation result1](https://user-images.githubusercontent.com/92585515/182061521-c0fb42bc-5b0a-40e2-a56f-cfeab4e67835.png)
 
-
-![nuclei semantic segmentation result2](https://user-images.githubusercontent.com/92585515/182061541-d7a6806a-c8f7-4629-a2c9-e8977f8dace0.pn
