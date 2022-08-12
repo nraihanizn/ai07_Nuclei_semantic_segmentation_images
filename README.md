@@ -1,4 +1,4 @@
-Nuclei Semantic Segmentation Images
+# Nuclei Semantic Segmentation Images
 
 ## 1. Overview
 Ther purpose of this project is to identify a range of nuclei across varied conditions.  Identifying nuclei allows researchers to identify each individual cell in a sample, and by measuring how cells react to various treatments, the researcher can understand the underlying biological processes at work. This project use the dataset from [2018 Data Science Bowl](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) and the IDE used to create this project is Spyder. The framewok used is Pandas, Scikit-learn and TensorFlow Keras. 
